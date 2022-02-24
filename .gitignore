@@ -1,6 +1,8 @@
 *.pdf
 *.jpg
 test.py
+.ipynb_checkpoints
 
 # Editor
 .vscode/
+
